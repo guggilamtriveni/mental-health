@@ -1,6 +1,13 @@
-tensorflow==2.15.0
-keras==2.15.0
+python_version < 3.11
+
+streamlit
 numpy
 pandas
 scikit-learn
+nltk
+gensim
 matplotlib
+tensorflow==2.15.0
+keras==2.15.0
+joblib
+
