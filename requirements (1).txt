@@ -1,8 +1,9 @@
-tensorflow==2.20.0
-keras==2.15.0
+streamlit
 numpy
 pandas
 scikit-learn
-matplotlib
+nltk
+tensorflow==2.20.0
+
 
 
